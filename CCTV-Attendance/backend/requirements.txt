@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+opencv-python
+numpy
+requests
+python-dotenv
+dlib==19.24.1
+face_recognition==1.3.0
